@@ -1,0 +1,3 @@
+../Core/Src/display.c:14:6:outDisplayUser	40	static
+../Core/Src/display.c:98:6:outDisplayWakeTx	40	static
+../Core/Src/display.c:146:6:outBufferDisplay	16	static
