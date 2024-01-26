@@ -42,6 +42,8 @@ typedef struct tag_point {
 } tag_point;
 
 ```
+Project schema
+![GitHub Shem](shematic.png)
 ## Contribution
 If you have suggestions or remarks, please send them to arruin1996@gmail.com.
 
